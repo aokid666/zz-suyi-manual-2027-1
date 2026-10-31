@@ -1,0 +1,88 @@
+{
+  "title": "苏一提分手册",
+  "expectedFiles": 24,
+  "receivedFiles": 10,
+  "complete": false,
+  "parts": [
+    {
+      "file": "pdf/27苏一提分手册_P001-008.pdf",
+      "startPage": 1,
+      "endPage": 8,
+      "pageCount": 8,
+      "bytes": 21774141,
+      "sha256": "604315387ae7d94b43f8e2e5bd676788e03509b209382968671acb76439ca88f"
+    },
+    {
+      "file": "pdf/27苏一提分手册_P009-017.pdf",
+      "startPage": 9,
+      "endPage": 17,
+      "pageCount": 9,
+      "bytes": 23775235,
+      "sha256": "db1359739cb3f65534a43249646a843459bcdf6ac6ba35c6e38dd722de47c37f"
+    },
+    {
+      "file": "pdf/27苏一提分手册_P018-026.pdf",
+      "startPage": 18,
+      "endPage": 26,
+      "pageCount": 9,
+      "bytes": 22649423,
+      "sha256": "bf1708974eb722757a9406534c781dedd4b74affa074f6705a3c33efca448e7a"
+    },
+    {
+      "file": "pdf/27苏一提分手册_P027-035.pdf",
+      "startPage": 27,
+      "endPage": 35,
+      "pageCount": 9,
+      "bytes": 22137008,
+      "sha256": "15bfa56f893a14400977ed0e39458c165d502f7fe13e90020477781a4f52e075"
+    },
+    {
+      "file": "pdf/27苏一提分手册_P036-044.pdf",
+      "startPage": 36,
+      "endPage": 44,
+      "pageCount": 9,
+      "bytes": 23474989,
+      "sha256": "2b882593759341eb54784392ebe1a51617ac1b94ca9e222c2af4e6848c097fc4"
+    },
+    {
+      "file": "pdf/27苏一提分手册_P045-054.pdf",
+      "startPage": 45,
+      "endPage": 54,
+      "pageCount": 10,
+      "bytes": 22498454,
+      "sha256": "6a918c3c595bfd45da8e04512f5b2b08ae56bd8bf4776eaea826a6a864072421"
+    },
+    {
+      "file": "pdf/27苏一提分手册_P055-065.pdf",
+      "startPage": 55,
+      "endPage": 65,
+      "pageCount": 11,
+      "bytes": 22690800,
+      "sha256": "56247a843119c50bc86bfdbdfffc414a98c7cf88ac881c5dfeeac67f8f967911"
+    },
+    {
+      "file": "pdf/27苏一提分手册_P066-075.pdf",
+      "startPage": 66,
+      "endPage": 75,
+      "pageCount": 10,
+      "bytes": 22851414,
+      "sha256": "0568c6417c3a8a796251f915aec4d51259531dce42532a954fd35257f57e1f9e"
+    },
+    {
+      "file": "pdf/27苏一提分手册_P076-086.pdf",
+      "startPage": 76,
+      "endPage": 86,
+      "pageCount": 11,
+      "bytes": 21671952,
+      "sha256": "3c6a76c3f9b974ccc0a29cdd0bd59224b0319a3cb48213e9e03d9f239b1f9127"
+    },
+    {
+      "file": "pdf/27苏一提分手册_P087-097.pdf",
+      "startPage": 87,
+      "endPage": 97,
+      "pageCount": 11,
+      "bytes": 23630114,
+      "sha256": "b4daac64ae9d259e6f28a8d8fc45b8d8029bfa2d94deab3bc3f1e4dc44df2109"
+    }
+  ]
+}
